@@ -2,6 +2,8 @@
 
     Dans ce challenge vous devez modifiez le script pour
     recevoir le flag.
+    
+    Le flag n'est pas au format régulier.
 
 
 -INSTALLATION:
