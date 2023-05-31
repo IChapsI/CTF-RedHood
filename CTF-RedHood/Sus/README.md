@@ -3,6 +3,8 @@
     Dans ce paquet vous devez trouvez un flag non standard,
     vous devez chercher une connexion authorisé qui passe
     grâce à un protocol non-sécurisé.
+    
+    Le flag n'est pas au format régulier.
 
 
 -INSTALLATION:
